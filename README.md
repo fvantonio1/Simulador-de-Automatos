@@ -15,6 +15,7 @@ Exemplo de entrada:
 6 #Número de transições
 
 #Transições
+
 0 a 1
 
 0 b 1
