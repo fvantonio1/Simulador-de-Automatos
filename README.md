@@ -6,14 +6,15 @@ Exemplo de entrada:
 
 ![image](https://user-images.githubusercontent.com/35939169/115295252-ec01ae00-a12f-11eb-9233-8282734c3e51.png)
 
-3
+3 #Número de estados
 
-2 a b
+2 a b #Quantidade e os simbolos terminais
 
-1 2
+1 2 #Quantidade e os estados finais
 
-6
+6 #Número de transições
 
+#Transições
 0 a 1
 
 0 b 1
@@ -26,8 +27,9 @@ Exemplo de entrada:
 
 2 b 2
 
-10
+10 #Número de cadeis a serem testadas
 
+#Cadeais a serem testadas
 abbbba
 
 aabbbb
