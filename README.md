@@ -7,7 +7,9 @@ Exemplo de entrada:
 ![image](https://user-images.githubusercontent.com/35939169/115295252-ec01ae00-a12f-11eb-9233-8282734c3e51.png)
 
 3
+
 2 a b
+
 1 2
 6
 0 a 1
